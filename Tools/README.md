@@ -1,0 +1,19 @@
+### Tools
+
+- [wrk](https://github.com/wg/wrk) - _Modern HTTP benchmarking tool_
+- [HIRE SMART](https://github.com/atulmy/hire-smart) - _HIRE SMART (community edition) - An application to streamline hiring process, scheduling interviews and tracking candidates._
+- [glances](https://github.com/nicolargo/glances) - _Glances an Eye on your system. A top/htop alternative._
+- [dokku](https://github.com/dokku/dokku) - _A docker-powered PaaS that helps you build and manage the lifecycle of applications_
+- [docz](https://github.com/pedronauck/docz) - _✍🏻It has never been so easy to document your things!_
+- [mkcert](https://github.com/FiloSottile/mkcert) - _A simple zero-config tool to make locally trusted development certificates with any names you'd like._
+- [realworld](https://github.com/gothinkster/realworld) - _"The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅_
+- [system-design-primer](https://github.com/donnemartin/system-design-primer) - _Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards._
+- [marked](https://github.com/markedjs/marked) - _A markdown parser and compiler. Built for speed._
+- [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - _An ultra-simplified explanation to design patterns_
+- [minio](https://github.com/minio/minio) - _Minio is an open source object storage server compatible with Amazon S3 APIs_
+- [Domoticz](https://github.com/domoticz/domoticz) - _Open source Home Automation System_
+- [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - _Tools of The Trade, from Hacker News._
+- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - _🤓 Build your own (insert technology here)_
+- [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - _🚀 Awesome list of open source applications for macOS._
+- [ReLaXed](https://github.com/RelaxedJS/ReLaXed) - _Create PDF documents using web technologies_
+- [carbon](https://github.com/dawnlabs/carbon) - _🎨 Create and share beautiful images of your source code_
