@@ -14,12 +14,16 @@
 - [project-guidelines](https://github.com/elsewhencode/project-guidelines) - _A set of best practices for JavaScript projects_
 - [js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch) - _🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack._
 - [realworld](https://github.com/gothinkster/realworld) - _"The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅_
+- [wwwbasic](https://github.com/google/wwwbasic) - _WWWBasic is an implementation of BASIC (Beginner's All-purpose Symbolic Instruction Code) designed to be easy to run on the Web._
+- [Grapesjs](https://github.com/artf/grapesjs) - _Free and Open source Web Builder Framework. Next generation tool for building templates without coding_
+- [lyo](https://github.com/bokub/lyo) - _📦 Node.js to browser - The easy way_
 
 #### Pure Javascripts / Vanilla JS
 
 - [JavaScript30](https://github.com/wesbos/JavaScript30) - _30 Day Vanilla JS Challenge_
 - [30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - _Curated collection of useful Javascript snippets that you can understand in 30 seconds or less._
 - [modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - _Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects._
+- [wwwbasic](https://github.com/google/wwwbasic) - _WWWBasic is an implementation of BASIC (Beginner's All-purpose Symbolic Instruction Code) designed to be easy to run on the Web._
 
 #### React
 
@@ -38,10 +42,13 @@
 - [react-social-plugin](https://github.com/deepakaggarwal7/react-social-login)
 - [react-router](https://github.com/ReactTraining/react-router) - _Declarative routing for React_
 - [pigeon-maps](https://github.com/mariusandra/pigeon-maps) - _ReactJS Maps without external dependencies_
+- [immer](https://github.com/mweststrate/immer) - _Create the next immutable state by mutating the current one_
 
 #### React Native
 
 - [Awesome React Native UI](https://github.com/madhavanmalolan/awesome-reactnative-ui) - _Awesome React Native UI components updated weekly_
+
+#### Typescripts
 
 #### Vue
 

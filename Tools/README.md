@@ -17,3 +17,5 @@
 - [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - _🚀 Awesome list of open source applications for macOS._
 - [ReLaXed](https://github.com/RelaxedJS/ReLaXed) - _Create PDF documents using web technologies_
 - [carbon](https://github.com/dawnlabs/carbon) - _🎨 Create and share beautiful images of your source code_
+- [free-for-dev](https://github.com/ripienaar/free-for-dev) - _A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev_
+- [carbon](https://github.com/dawnlabs/carbon) - _🎨 Create and share beautiful images of your source code_
