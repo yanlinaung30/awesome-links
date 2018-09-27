@@ -1,5 +1,9 @@
 ### Javascripts
 
+#### Electron
+
+- [awesone-electron](https://github.com/sindresorhus/awesome-electron) - _Useful resources for creating apps with Electron_
+
 #### Nodejs
 
 - [date-fns](https://github.com/date-fns/date-fns) - _Date Time Functions_
@@ -17,6 +21,16 @@
 - [wwwbasic](https://github.com/google/wwwbasic) - _WWWBasic is an implementation of BASIC (Beginner's All-purpose Symbolic Instruction Code) designed to be easy to run on the Web._
 - [Grapesjs](https://github.com/artf/grapesjs) - _Free and Open source Web Builder Framework. Next generation tool for building templates without coding_
 - [lyo](https://github.com/bokub/lyo) - _📦 Node.js to browser - The easy way_
+- [mastering-modular-javascript](https://github.com/mjavascript/mastering-modular-javascript) - _📦 Module thinking, principles, design patterns and best practices._
+- [awesome-npm](https://github.com/sindresorhus/awesome-npm) - _Awesome npm resources and tips_
+- [currency.js](https://github.com/scurker/currency.js) - _A javascript library for handling currencies_
+- [accounting.js](https://github.com/openexchangerates/accounting.js) - _A lightweight JavaScript library for number, money and currency formatting - fully localisable, zero dependencies._
+- [dinero.js](https://github.com/sarahdayan/dinero.js) - _💸 An immutable library to create, calculate and format money._
+- [walletjs](https://github.com/dleitee/walletjs) - _💳A little library to handle money amounts._
+
+#### Next
+
+- [next.js](https://github.com/zeit/next.js) - _Next.js is a lightweight framework for static and server‑rendered applications._
 
 #### Pure Javascripts / Vanilla JS
 
@@ -43,6 +57,12 @@
 - [react-router](https://github.com/ReactTraining/react-router) - _Declarative routing for React_
 - [pigeon-maps](https://github.com/mariusandra/pigeon-maps) - _ReactJS Maps without external dependencies_
 - [immer](https://github.com/mweststrate/immer) - _Create the next immutable state by mutating the current one_
+- [create-react-library](https://github.com/transitive-bullshit/create-react-library) - _⚡CLI for easily creating reusable react libraries._
+- [reactxp](https://github.com/Microsoft/reactxp) - _Library for cross-platform app development_
+- [formik](https://github.com/jaredpalmer/formik) - _Build forms in React, without the tears 😭_
+- [awesome-react-render-props](https://github.com/jaredpalmer/awesome-react-render-props) - _Awesome list of React components with render props_
+- [react-fns](https://github.com/jaredpalmer/react-fns) - _Browser API's turned into declarative React components and HoC's_
+- [react-native-elements](https://github.com/react-native-training/react-native-elements) - _Cross Platform React Native UI Toolkit_
 
 #### React Native
 
@@ -54,6 +74,7 @@
 
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - _🎉 A magical vue admin_
 - [element](https://github.com/ElemeFE/element) - _A Vue.js 2.0 UI Toolkit for Web_
+- [vuejs-countdown](https://github.com/getanwar/vuejs-countdown) - _A simple countdown timer component for vue js 2.0_
 
 #### Widgets
 

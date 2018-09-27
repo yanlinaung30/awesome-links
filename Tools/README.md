@@ -18,4 +18,5 @@
 - [ReLaXed](https://github.com/RelaxedJS/ReLaXed) - _Create PDF documents using web technologies_
 - [carbon](https://github.com/dawnlabs/carbon) - _🎨 Create and share beautiful images of your source code_
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - _A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev_
-- [carbon](https://github.com/dawnlabs/carbon) - _🎨 Create and share beautiful images of your source code_
+- [etcher](https://github.com/resin-io/etcher) - _Flash OS images to SD cards & USB drives, safely and easily._
+- [trix](https://github.com/basecamp/trix) - _A rich text editor for everyday writing_
