@@ -14,3 +14,5 @@
 - [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) - _This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers._
 - [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - _The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data._
 - [awesome-react-native](https://github.com/jondot/awesome-react-native) - _Awesome React Native components, news, tools, and learning material!_
+- [awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) - _👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming_
+- [awesome-awesome-nodejs](https://github.com/bnb/awesome-awesome-nodejs) - _🐢🚀 An Awesome list of Awesome lists related to Node.js._

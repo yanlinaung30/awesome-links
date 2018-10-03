@@ -27,6 +27,11 @@
 - [accounting.js](https://github.com/openexchangerates/accounting.js) - _A lightweight JavaScript library for number, money and currency formatting - fully localisable, zero dependencies._
 - [dinero.js](https://github.com/sarahdayan/dinero.js) - _💸 An immutable library to create, calculate and format money._
 - [walletjs](https://github.com/dleitee/walletjs) - _💳A little library to handle money amounts._
+- [uppy](https://github.com/transloadit/uppy) - _The next open source file uploader for web browsers 🐶_
+- [awesome-awesome-nodejs](https://github.com/bnb/awesome-awesome-nodejs) - _🐢🚀 An Awesome list of Awesome lists related to Node.js._
+- [email-templates](https://github.com/niftylettuce/email-templates) - *
+  📫 Create, preview, and send custom email templates for Node.js. Highly configurable and supports automatic inline CSS, stylesheets, embedded images and fonts, and much more!*
+  [lad](https://github.com/ladjs/lad) - _👦 Lad scaffolds a Koa webapp and API framework for Node.js \*TO BE RELEASED\*_
 
 #### Next
 
@@ -63,10 +68,20 @@
 - [awesome-react-render-props](https://github.com/jaredpalmer/awesome-react-render-props) - _Awesome list of React components with render props_
 - [react-fns](https://github.com/jaredpalmer/react-fns) - _Browser API's turned into declarative React components and HoC's_
 - [react-native-elements](https://github.com/react-native-training/react-native-elements) - _Cross Platform React Native UI Toolkit_
+- [react-admin](https://github.com/marmelab/react-admin) - _A frontend Framework for building admin applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design_
+- [libreact](https://github.com/streamich/libreact) - _Collection of useful React components_
+- [react-dropzone](https://github.com/react-dropzone/react-dropzone) - _Simple HTML5 drag-drop zone with React.js._
+- [react-icons](https://www.npmjs.com/package/react-icons) - _svg react icons of popular icon packs_
+- [gatsby](https://github.com/gatsbyjs/gatsby) - \*Build blazing fast, modern apps and websites with React
+
+#### Redux
+
+- [reslect](https://github.com/reduxjs/reselect) - _Selector library for Redux_
 
 #### React Native
 
 - [Awesome React Native UI](https://github.com/madhavanmalolan/awesome-reactnative-ui) - _Awesome React Native UI components updated weekly_
+- [frisbee](https://github.com/niftylettuce/frisbee) - _🐕 Modern fetch-based alternative to axios/superagent/request. Great for React Native._
 
 #### Typescripts
 
@@ -75,6 +90,7 @@
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - _🎉 A magical vue admin_
 - [element](https://github.com/ElemeFE/element) - _A Vue.js 2.0 UI Toolkit for Web_
 - [vuejs-countdown](https://github.com/getanwar/vuejs-countdown) - _A simple countdown timer component for vue js 2.0_
+- [eagle.js](https://github.com/Zulko/eagle.js) - _A hackable slideshow framework built with Vue.js_
 
 #### Widgets
 

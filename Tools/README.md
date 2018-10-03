@@ -20,3 +20,5 @@
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - _A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev_
 - [etcher](https://github.com/resin-io/etcher) - _Flash OS images to SD cards & USB drives, safely and easily._
 - [trix](https://github.com/basecamp/trix) - _A rich text editor for everyday writing_
+- [marketing-checklist](https://www.sideprojectchecklist.com/marketing-checklist/) - _A checklist of tactics for marketing your side projects._
+- [my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - _List of applications and tools that make my macOS experience even more amazing_
