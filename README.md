@@ -9,6 +9,7 @@
 - [CMS](CMS)
 - [Cryptocurrency](Cryptocurrency)
 - [Database](Database)
+- [DeepLearning](DeepLearning)
 - [Docker](Docker)
 - [Git](Git)
 - [http](http)

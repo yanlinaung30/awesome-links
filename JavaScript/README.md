@@ -1,5 +1,9 @@
 ### Javascripts
 
+#### Angular
+
+- [nebular](https://github.com/akveo/nebular) - _Angular 6 Components, Auth and Security_
+
 #### Electron
 
 - [awesone-electron](https://github.com/sindresorhus/awesome-electron) - _Useful resources for creating apps with Electron_
@@ -43,6 +47,7 @@
 - [30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - _Curated collection of useful Javascript snippets that you can understand in 30 seconds or less._
 - [modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - _Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects._
 - [wwwbasic](https://github.com/google/wwwbasic) - _WWWBasic is an implementation of BASIC (Beginner's All-purpose Symbolic Instruction Code) designed to be easy to run on the Web._
+- [33-js-concepts](https://github.com/leonardomso/33-js-concepts) - *https://github.com/leonardomso/33-js-concepts*
 
 #### React
 
@@ -73,6 +78,7 @@
 - [react-dropzone](https://github.com/react-dropzone/react-dropzone) - _Simple HTML5 drag-drop zone with React.js._
 - [react-icons](https://www.npmjs.com/package/react-icons) - _svg react icons of popular icon packs_
 - [gatsby](https://github.com/gatsbyjs/gatsby) - \*Build blazing fast, modern apps and websites with React
+- [Advanced-React](https://github.com/wesbos/Advanced-React) - *Starter Files and Solutions for Full Stack Advanced React and GraphQL*
 
 #### Redux
 

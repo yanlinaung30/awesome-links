@@ -7,3 +7,4 @@
 - [Blockchain-stuff](https://github.com/Xel/Blockchain-stuff) - _Blockchain and Crytocurrency Resources_
 - [cryptocurrency-icons](https://github.com/atomiclabs/cryptocurrency-icons) - _A set of icons for all the main cryptocurrencies and altcoins, in a range of styles and sizes._
 - [cryptocoins](https://github.com/AllienWorks/cryptocoins) - _Cryptocoins is the most complete vector/webfont icon pack of your favourite cryptocurrencies_
+- [tink](https://github.com/google/tink) - _Tink is a multi-language, cross-platform library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse._

@@ -22,3 +22,4 @@
 - [trix](https://github.com/basecamp/trix) - _A rich text editor for everyday writing_
 - [marketing-checklist](https://www.sideprojectchecklist.com/marketing-checklist/) - _A checklist of tactics for marketing your side projects._
 - [my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - _List of applications and tools that make my macOS experience even more amazing_
+- [interviews](https://github.com/kdn251/interviews) - _Everything you need to know to get the job._

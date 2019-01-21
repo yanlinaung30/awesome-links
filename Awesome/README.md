@@ -16,3 +16,4 @@
 - [awesome-react-native](https://github.com/jondot/awesome-react-native) - _Awesome React Native components, news, tools, and learning material!_
 - [awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) - _👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming_
 - [awesome-awesome-nodejs](https://github.com/bnb/awesome-awesome-nodejs) - _🐢🚀 An Awesome list of Awesome lists related to Node.js._
+- [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - _💊 Curated list of falsehoods programmers believe in._
