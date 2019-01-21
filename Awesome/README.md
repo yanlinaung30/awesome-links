@@ -17,3 +17,8 @@
 - [awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) - _👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming_
 - [awesome-awesome-nodejs](https://github.com/bnb/awesome-awesome-nodejs) - _🐢🚀 An Awesome list of Awesome lists related to Node.js._
 - [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - _💊 Curated list of falsehoods programmers believe in._
+- [professional-programming](https://github.com/charlax/professional-programming) - _A collection of full-stack resources for programmers.
+_
+- [awesome-react](https://github.com/enaqx/awesome-react) - _A collection of awesome things regarding React ecosystem.
+_
+- 
