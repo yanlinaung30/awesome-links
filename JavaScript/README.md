@@ -33,8 +33,8 @@
 - [walletjs](https://github.com/dleitee/walletjs) - _💳A little library to handle money amounts._
 - [uppy](https://github.com/transloadit/uppy) - _The next open source file uploader for web browsers 🐶_
 - [awesome-awesome-nodejs](https://github.com/bnb/awesome-awesome-nodejs) - _🐢🚀 An Awesome list of Awesome lists related to Node.js._
-- [email-templates](https://github.com/niftylettuce/email-templates) - *
-  📫 Create, preview, and send custom email templates for Node.js. Highly configurable and supports automatic inline CSS, stylesheets, embedded images and fonts, and much more!*
+- [email-templates](https://github.com/niftylettuce/email-templates) - _
+  📫 Create, preview, and send custom email templates for Node.js. Highly configurable and supports automatic inline CSS, stylesheets, embedded images and fonts, and much more!_
 
   [lad](https://github.com/ladjs/lad) - _👦 Lad scaffolds a Koa webapp and API framework for Node.js \*TO BE RELEASED\*_
 
@@ -49,6 +49,7 @@
 - [modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - _Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects._
 - [wwwbasic](https://github.com/google/wwwbasic) - _WWWBasic is an implementation of BASIC (Beginner's All-purpose Symbolic Instruction Code) designed to be easy to run on the Web._
 - [33-js-concepts](https://github.com/leonardomso/33-js-concepts) - _https://github.com/leonardomso/33-js-concepts_
+- [yup](https://github.com/jquense/yup) - _Dead simple Object schema validation_
 
 #### React
 
@@ -81,6 +82,7 @@
 - [gatsby](https://github.com/gatsbyjs/gatsby) - \*Build blazing fast, modern apps and websites with React
 - [Advanced-React](https://github.com/wesbos/Advanced-React) - _Starter Files and Solutions for Full Stack Advanced React and GraphQL_
 - [awesome-react](https://github.com/enaqx/awesome-react) - _A collection of awesome things regarding React ecosystem._
+- [react-virtualized](https://github.com/bvaughn/react-virtualized) - _React components for efficiently rendering large lists and tabular data_
 
 #### Redux
 
@@ -90,6 +92,7 @@
 
 - [Awesome React Native UI](https://github.com/madhavanmalolan/awesome-reactnative-ui) - _Awesome React Native UI components updated weekly_
 - [frisbee](https://github.com/niftylettuce/frisbee) - _🐕 Modern fetch-based alternative to axios/superagent/request. Great for React Native._
+- [react-native-camera](https://github.com/react-native-community/react-native-camera) - _A Camera component for React Native. Also supports barcode scanning!_
 
 #### Typescripts
 
