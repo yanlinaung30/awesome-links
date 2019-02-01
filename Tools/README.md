@@ -24,3 +24,4 @@
 - [my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - _List of applications and tools that make my macOS experience even more amazing_
 - [interviews](https://github.com/kdn251/interviews) - _Everything you need to know to get the job._
 - [how-to-fail-as-a-new-engineering-manager](https://blog.usejournal.com/how-to-fail-as-a-new-engineering-manager-30b5fb617a)
+- [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - _⚡️ A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers._

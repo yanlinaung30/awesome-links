@@ -83,6 +83,10 @@
 - [Advanced-React](https://github.com/wesbos/Advanced-React) - _Starter Files and Solutions for Full Stack Advanced React and GraphQL_
 - [awesome-react](https://github.com/enaqx/awesome-react) - _A collection of awesome things regarding React ecosystem._
 - [react-virtualized](https://github.com/bvaughn/react-virtualized) - _React components for efficiently rendering large lists and tabular data_
+- [react-movable](https://github.com/tajo/react-movable) - _🔀 Drag and drop for your React lists and tables. Accessible. Tiny. https://react-movable.netlify.com_
+- [javascript-closure](https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8)
+- [bit](https://github.com/teambit/bit) - _Easily share code between projects with your team. https://bitsrc.io_
+- [showdown](https://github.com/showdownjs/showdown) - _A bidirectional Markdown to HTML to Markdown converter written in Javascript http://www.showdownjs.com/_
 
 #### Redux
 

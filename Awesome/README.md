@@ -18,7 +18,7 @@
 - [awesome-awesome-nodejs](https://github.com/bnb/awesome-awesome-nodejs) - _🐢🚀 An Awesome list of Awesome lists related to Node.js._
 - [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - _💊 Curated list of falsehoods programmers believe in._
 - [professional-programming](https://github.com/charlax/professional-programming) - _A collection of full-stack resources for programmers.
-_
+  _
 - [awesome-react](https://github.com/enaqx/awesome-react) - _A collection of awesome things regarding React ecosystem.
-_
-- 
+  _ [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - _👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file_
+  - [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - _A list of awesome beginners-friendly projects._

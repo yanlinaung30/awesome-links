@@ -6,3 +6,4 @@
 - [tmuxcheatsheet.com](https://tmuxcheatsheet.com/)
 - [tmux-cheatsheet.markdown](https://gist.github.com/MohamedAlaa/2961058) - _tmux shortcuts & cheatsheet_
 - [modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - _Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects._
+- [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - _👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file_
