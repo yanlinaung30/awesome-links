@@ -35,8 +35,8 @@
 - [awesome-awesome-nodejs](https://github.com/bnb/awesome-awesome-nodejs) - _🐢🚀 An Awesome list of Awesome lists related to Node.js._
 - [email-templates](https://github.com/niftylettuce/email-templates) - _
   📫 Create, preview, and send custom email templates for Node.js. Highly configurable and supports automatic inline CSS, stylesheets, embedded images and fonts, and much more!_
-
-  [lad](https://github.com/ladjs/lad) - _👦 Lad scaffolds a Koa webapp and API framework for Node.js \*TO BE RELEASED\*_
+- [lad](https://github.com/ladjs/lad) - _👦 Lad scaffolds a Koa webapp and API framework for Node.js \*TO BE RELEASED\*_
+- [flexsearch](https://github.com/nextapps-de/flexsearch) - _Next-Generation full text search library for Browser and Node.js_
 
 #### Next
 
@@ -50,6 +50,11 @@
 - [wwwbasic](https://github.com/google/wwwbasic) - _WWWBasic is an implementation of BASIC (Beginner's All-purpose Symbolic Instruction Code) designed to be easy to run on the Web._
 - [33-js-concepts](https://github.com/leonardomso/33-js-concepts) - _https://github.com/leonardomso/33-js-concepts_
 - [yup](https://github.com/jquense/yup) - _Dead simple Object schema validation_
+- [lazysizes](https://github.com/aFarkas/lazysizes) - _High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration._
+- [instant.page](https://github.com/instantpage/instant.page) - _Make your site’s pages instant in 1 minute and improve your conversion rate by 1% https://instant.page_
+- [cleave.js](https://github.com/nosir/cleave.js) - _Format input text content when you are typing... http://nosir.github.io/cleave.js_
+- [nsfwjs](https://github.com/infinitered/nsfwjs) - _NSFW detection on the client-side via Tensorflow JS https://nsfwjs.com/_
+- [cypress](https://github.com/cypress-io/cypress) - _Fast, easy and reliable testing for anything that runs in a browser. https://www.cypress.io_
 
 #### React
 
@@ -87,6 +92,17 @@
 - [javascript-closure](https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8)
 - [bit](https://github.com/teambit/bit) - _Easily share code between projects with your team. https://bitsrc.io_
 - [showdown](https://github.com/showdownjs/showdown) - _A bidirectional Markdown to HTML to Markdown converter written in Javascript http://www.showdownjs.com/_
+- [learn-react-app](https://github.com/tyroprogrammer/learn-react-app) - _Application that will help you learn React fundamentals. Install this application locally - there's tutorial, code snippets and exercises. The main objective of this project is to help you get off the ground with React!_
+- [redux-react-hook](https://github.com/facebookincubator/redux-react-hook) - _React Hook for accessing state and dispatch from a Redux store_
+- [react-testing-library](https://github.com/kentcdodds/react-testing-library) - _🐐 Simple and complete React DOM testing utilities that encourage good testing practices. http://npm.im/react-testing-library_
+- [constate](https://github.com/diegohaz/constate) - _Scalable state using React Hooks & Context https://codesandbox.io/s/github/diegohaz/constate/tree/master/examples/counter_
+- [react-native-hooks](https://github.com/react-native-community/react-native-hooks) - _React Native APIs turned into React Hooks for use in functional React components_
+- [pagedraw](https://github.com/Pagedraw/pagedraw) - _a UI builder for React web apps https://pagedraw.io/_
+- [react-typescript-cheatsheet](https://github.com/sw-yx/react-typescript-cheatsheet) - _Cheatsheets for experienced React developers getting started with TypeScript https://twitter.com/swyx/status/1002776892154445826_
+- [using-custom-react-hooks-simplify-forms](https://upmostly.com/tutorials/using-custom-react-hooks-simplify-forms/)
+- [react-window](https://github.com/bvaughn/react-window) - _React components for efficiently rendering large lists and tabular data https://react-window.now.sh/_
+- [hook-flow](https://github.com/donavon/hook-flow) - _A flowchart that explains the new lifecycle of a Hooks component._
+- [react-three-fiber](https://github.com/drcmda/react-three-fiber) - _👌A React-renderer for Three.js_
 
 #### Redux
 
@@ -106,6 +122,7 @@
 - [element](https://github.com/ElemeFE/element) - _A Vue.js 2.0 UI Toolkit for Web_
 - [vuejs-countdown](https://github.com/getanwar/vuejs-countdown) - _A simple countdown timer component for vue js 2.0_
 - [eagle.js](https://github.com/Zulko/eagle.js) - _A hackable slideshow framework built with Vue.js_
+- [quasar](https://github.com/quasarframework/quasar) - _Quasar Framework - High performance, Material Design 2, full front end stack with Vue.js https://v1.quasar-framework.org_
 
 #### Widgets
 

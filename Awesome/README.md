@@ -17,8 +17,12 @@
 - [awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) - _👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming_
 - [awesome-awesome-nodejs](https://github.com/bnb/awesome-awesome-nodejs) - _🐢🚀 An Awesome list of Awesome lists related to Node.js._
 - [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - _💊 Curated list of falsehoods programmers believe in._
-- [professional-programming](https://github.com/charlax/professional-programming) - _A collection of full-stack resources for programmers.
-  _
-- [awesome-react](https://github.com/enaqx/awesome-react) - _A collection of awesome things regarding React ecosystem.
-  _ [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - _👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file_
-  - [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - _A list of awesome beginners-friendly projects._
+- [professional-programming](https://github.com/charlax/professional-programming) - \_A collection of full-stack resources for programmers.
+- [awesome-react](https://github.com/enaqx/awesome-react) - \_A collection of awesome things regarding React ecosystem.
+- [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - _👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file_
+- [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - _A list of awesome beginners-friendly projects._
+- [awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - _Collection of awesome podcasts_
+- [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) - _The best design tools for everything._
+- [awesome-startup-credits](https://github.com/dakshshah96/awesome-startup-credits) - _✨ A collection of awesome companies offering free/discounted plans for eligible startups_
+- [awesome-mental-health](https://github.com/dreamingechoes/awesome-mental-health) - _A curated list of awesome articles, websites and resources about mental health in the software industry._
+- [Awesome-WAF](https://github.com/0xInfection/Awesome-WAF) - _🔥 Awesome web application firewall (WAF) stuff. https://awesomelists.top/#/repos/0xinfection/Awesome-WAF_

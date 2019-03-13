@@ -15,3 +15,5 @@
 - [insomia](https://github.com/getinsomnia/insomnia) - _Cross-platform HTTP and GraphQL Client_
 - [got](https://github.com/sindresorhus/got) - _Simplified HTTP requests_
 - [r2](https://github.com/mikeal/r2) - _HTTP client. Spiritual successor to request._
+- [inlets](https://github.com/alexellis/inlets) - _Expose your local endpoints to the Internet_
+- [frp](https://github.com/fatedier/frp) - _A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet._
